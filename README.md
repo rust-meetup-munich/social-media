@@ -1,4 +1,4 @@
-<p align="center"><img width="80" src="https://raw.githubusercontent.com/rust-meetup-munich/icon/d9b053f63311b393237f0955cbb57aff3a4acf04/icon.svg" /></p>
+<p align="center"><img width="200" src="https://avatars.githubusercontent.com/u/57796851?s=200&v=4" /></p>
 <h3 align="center">RustMunich/SocialMedia</h3>
 <p align="center">A repository to compose tweets together using <a href="https://github.com/twitter-together/action">twitter-together</a>.</p>
 
